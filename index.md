@@ -1,5 +1,6 @@
 ---
 title: Lianjun Huang's home page
+layout: null
 ---
 
 # Lianjun Huang
