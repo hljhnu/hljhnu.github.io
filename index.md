@@ -41,7 +41,7 @@ Hunan University, Bachelor of Science, in computer science and technology, 2007-
 - Ranking first in the class in senior high school entrance examination, 2004
 
 ### Professional Services
-Reviewer of the [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications/)
+Reviewer of [The Journal of Supercomputing](https://www.springer.com/computer/swe/journal/11227)
 
 ### Open Source
 [Android Open Source Project](https://android-review.googlesource.com/)  
