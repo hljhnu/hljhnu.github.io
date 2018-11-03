@@ -8,14 +8,14 @@ E-mail: ***huanglianjun*** [at] ***vivo*** [dot] ***com***
 
 ---
 ### Position
-I am a software engineer at the BSP team in vivo. My work mainly focuses the following aspects:
+I am a software engineer on the BSP team at vivo. My work is mainly focused on the following aspects:
 
 - File system: 
 	- porting new file systems to Android
 	- developing new features based on file systems
 	- optimizing performance and stability of file systems
 - Storage:
-	- maintaining SD card drivers for both MTK and Qualcomm platforms
+	- maintaining SD card drivers for both MediaTeK and Qualcomm platforms
 	- developing tools and features for SD cards
 - Android:
 	- maintaining storage framework of Android
@@ -34,11 +34,11 @@ Hunan University, Bachelor of Science, in computer science and technology, 2007-
 - Major Award for Graduate Students of Hunan University, 2012
 - Excellent Member of Hunan University, 2012
 - Major Award for Graduate Students of Hunan University, 2011
-- Exempt from the examination for graduate student, 2010
+- Exempt from the entrance examination for graduate students, 2010
 - Individual Scholarship for Undergraduate Students of Hunan University, 2010
 - Individual Scholarship for Undergraduate Students of Hunan University, 2009  
 - Ranking first in the class in the Entrance Examination for College, 2007
-- Ranking first in the class in senior high school entrance examination, 2004
+- Ranking first in the class in the senior high school entrance examination, 2004
 
 ### Professional Services
 Reviewer of [The Journal of Supercomputing](https://www.springer.com/computer/swe/journal/11227)
