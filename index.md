@@ -61,6 +61,6 @@ Reviewer of [The Journal of Supercomputing](https://www.springer.com/computer/sw
 
 ### Others
 [Linkedin](https://www.linkedin.com/in/lianjun-huang-43964240/)  
-[Blog](https://hljhnu.github.com/blog/)  
+[Blog](https://hljhnu.github.io/blog/)
 [Twitter](https://twitter.com/LianjunHuang)   
 
