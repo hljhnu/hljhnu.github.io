@@ -9,13 +9,17 @@ E-mail: ***hljhnu*** [at] ***163*** [dot] ***com***
 ---
 ### Position
 
-2019.7~now
+2021.7~
 
-I am a senior software engineer working on database in 2012 Labs at Huawei.
+I am a senior software engineer working on file systems and storage.
+
+2019.7~2021.7
+
+I was a senior software engineer working on database in 2012 Labs at Huawei.
 
 2014.9~2019.6
 
-I am a software engineer on the BSP team at vivo. My work is mainly focused on the following aspects:
+I was a software engineer on the BSP team at vivo. My work was mainly focused on the following aspects:
 
 - File system: 
 	- porting new file systems to Android
