@@ -33,7 +33,7 @@ I was a software engineer on the BSP team at vivo. My work was mainly focused on
 
 ### Educations
 Hunan Unversity, Master's degree in computer science and technology, 2011-2014  
-Tsinghua University, visiting student at the institute of high performance computing, 2012-2014  
+[Tsinghua University, visiting student at the institute of high performance computing, 2012-2014](http://storage.cs.tsinghua.edu.cn/)  
 Hunan University, Bachelor of Science, in computer science and technology, 2007-2011  
 
 ### Publications
