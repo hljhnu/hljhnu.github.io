@@ -11,11 +11,11 @@ E-mail: ***hljhnu*** [at] ***163*** [dot] ***com***
 
 2021.7~
 
-I am a senior software engineer working on file systems and storage.
+I am a senior software engineer working on file systems and storage. I developed MIFS there.
 
 2019.7~2021.7
 
-I was a senior software engineer working on database in 2012 Labs at Huawei.
+I was a senior software engineer working on database(e.g.,[GaussDB](https://www.huaweicloud.com/intl/en-us/product/gaussdb.html), [OpenGauss](https://opengauss.org/en/)) in 2012 Labs at Huawei. I met the best colleague there.
 
 2014.9~2019.6
 
