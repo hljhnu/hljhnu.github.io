@@ -41,6 +41,7 @@ Hunan University, Bachelor of Science, in computer science and technology, 2007-
 [Design and Implement of PCM Multi-direction Start-Gap Algorithm](http://www.cnki.com.cn/Article/CJFDTotal-XXWX201603046.htm)
 
 ### Honors & Awards
+- Outstanding Graduate, 2014
 - National Scholarship for Postgraduate/Graduate Students, 2013
 - Major Award for Graduate Students of Hunan University, 2012
 - Excellent Member of Hunan University, 2012
