@@ -9,7 +9,7 @@ I am a senior software engineer working on file systems, storage, and Android pe
 
 2019.7~2021.7
 
-I was a senior software engineer working on databases (e.g., [GaussDB](https://www.huaweicloud.com/intl/en-us/product/gaussdb.html), [OpenGauss](https://opengauss.org/en/)) in 2012 Labs at Huawei. I met the best colleagues there.
+I was a senior software engineer working on databases (e.g., [GaussDB](https://www.huaweicloud.com/intl/en-us/product/gaussdb.html), [OpenGauss](https://opengauss.org/en/)) in 2012 Labs at Huawei. 
 
 2014.9~2019.6
 
